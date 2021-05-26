@@ -1,0 +1,12 @@
+{
+  "name": "react-native-pokemon",
+  "displayName": "react-native-pokemon",
+  "expo": {
+    "name": "react-native-pokemon",
+    "slug": "react-native-pokemon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
